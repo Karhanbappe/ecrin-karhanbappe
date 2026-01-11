@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <title>Bizim Yıldönümümüz ❤️</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #fff0f5;
+            text-align: center;
+            padding: 40px;
+        }
+        .box {
+            background: white;
+            max-width: 500px;
+            margin: auto;
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        h1 {
+            color: #e75480;
+        }
+        p {
+            font-size: 18px;
+        }
+        footer {
+            margin-top: 20px;
+            font-size: 14px;
+            color: gray;
+        }
+    </style>
+</head>
+<body>
+
+<div class="box">
+    <h1>İyi ki Varsın ❤️</h1>
+    <p><strong>Canım [İSİM]</strong></p>
+
+    <p>
+        Seninle geçen her gün benim için çok değerli.  
+        Bu küçük site, sana olan sevgimin minicik bir hatırlatıcısı.
+    </p>
+
+    <p>
+        Nice güzel anılara,  
+        nice yıldönümlerine birlikte ✨
+    </p>
+
+    <p>💖</p>
+
+    <footer>
+        [TARİH]
+    </footer>
+</div>
+
+</body>
+</html>
